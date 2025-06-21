@@ -1,0 +1,41 @@
+:root {
+  --my-custom-color: #eb343a;
+}
+
+.custom-thumbnail {
+  border: 4px solid #4b2699 !important;
+  box-shadow: 0 0 15px #4b2699 !important;
+}
+.hero-box .box p {
+  width: 500px;
+}
+
+.bg-primary {
+  background-color: var(--my-custom-color) !important;
+}
+
+.text-primary {
+  color: var(--my-custom-color) !important;
+}
+
+.btn-primary {
+  background-color: var(--my-custom-color) !important;
+  border-color: var(--my-custom-color) !important;
+}
+
+.btn-outline-primary {
+  color: var(--my-custom-color) !important;
+}
+
+.btn-outline-primary {
+  color: var(--my-custom-color) !important;
+  border-color: var(--my-custom-color) !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:active,
+.btn-outline-primary:focus {
+  color: #fff !important;
+  background-color: var(--my-custom-color);
+  border-color: var(--my-custom-color);
+}

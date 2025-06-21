@@ -1,0 +1,19 @@
+h2 {
+  color: blue;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: blue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.paragraf1 {
+  color: rgb(10, 119, 208);
+  font-weight: 600;
+  font-family: sans-serif;
+  background-color: black;
+}
+#paragraff {
+  color: palevioletred;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
